@@ -18,3 +18,13 @@ Wrapper (multiplatform app)
 https://www.ludei.com/cocoonjs/
 
 https://trigger.io/
+
+CDNs
+=====
+http://www.jsdelivr.com/
+
+http://cdnjs.com/ (GitHub drive)[https://github.com/cdnjs/cdnjs]
+
+jQuery plugin
+=====
+http://imakewebthings.com/jquery-waypoints/
