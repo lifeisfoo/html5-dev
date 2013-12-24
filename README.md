@@ -7,10 +7,26 @@ http://www.greywyvern.com/?post=337
 
 http://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs/
 
+Generic
+======
+
+http://www.polymer-project.org/
+
+https://github.com/getify/h5ive
+
+
 Graphics and animation
 =========
 
 http://threejs.org/
+
+http://www.minimamente.com/magic-css3-animations/
+
+https://github.com/visionmedia/move.js
+
+http://labs.bigroomstudios.com/libraries/animo-js
+
+https://github.com/peachananr/onepage-scroll
 
 Wrapper (multiplatform app)
 =======
