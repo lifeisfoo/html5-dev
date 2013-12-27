@@ -1,4 +1,4 @@
-html5-dev
+An HTML5 development journey
 =========
 * [Control whitespaces with css](http://www.impressivewebs.com/css-white-space/)
 * http://www.greywyvern.com/?post=337
