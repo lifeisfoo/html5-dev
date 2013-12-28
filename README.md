@@ -43,3 +43,4 @@ jQuery plugin
 Server communication
 =====
 * [CORS MDN](https://developer.mozilla.org/en-US/docs/HTTP/Access_control_CORS?redirectlocale=en-US&redirectslug=HTTP_access_control)
+* [Enable-CORS](https://github.com/monsur/enable-cors.org)
