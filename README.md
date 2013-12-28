@@ -38,3 +38,8 @@ CDNs
 jQuery plugin
 =====
 * http://imakewebthings.com/jquery-waypoints/
+* 
+
+Server communication
+=====
+* [CORS MDN](https://developer.mozilla.org/en-US/docs/HTTP/Access_control_CORS?redirectlocale=en-US&redirectslug=HTTP_access_control)
