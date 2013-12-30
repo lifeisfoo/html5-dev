@@ -16,6 +16,11 @@ Javascript
 * [Microjs framework listing](https://github.com/madrobby/microjs.com)
 * [JS design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
+Node
+====
+* [REST api with Express](http://blog.modulus.io/nodejs-and-express-create-rest-api)
+* [Sessions with Express](http://blog.modulus.io/nodejs-and-express-sessions)
+
 Graphics and animation
 =========
 
