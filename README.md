@@ -45,11 +45,17 @@ CDNs
 jQuery plugin
 =====
 * http://imakewebthings.com/jquery-waypoints/
-* 
 
-CORS hell
+CORS
 =====
 * [CORS MDN](https://developer.mozilla.org/en-US/docs/HTTP/Access_control_CORS?redirectlocale=en-US&redirectslug=HTTP_access_control)
 * [Enable-CORS](https://github.com/monsur/enable-cors.org)
 * [CORS tips](http://www.html5rocks.com/en/tutorials/cors/)
 * Access-Control-Allow-Origin can't be '*' when Access-Control-Allow-Credentials is true (cookie aware) 
+* Multi origin must be managed via conditional cors (server side: if(req.ip === '192.168.0.56') {res.setHeader...}) 
+
+Wordpress
+=====
+* [Redux Options Framework](https://github.com/ReduxFramework/ReduxFramework)
+* [Options Panel Framework](https://github.com/devinsays/options-framework-plugin)
+* [Roots: modern and clean theme framework with grunt, bootstrap3, less, js, etc](http://roots.io/)
