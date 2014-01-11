@@ -45,6 +45,7 @@ CDNs
 jQuery plugin
 =====
 * http://imakewebthings.com/jquery-waypoints/
+* [Superslides, jquery fullscreen slider](https://github.com/nicinabox/superslides)
 
 CORS
 =====
