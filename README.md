@@ -55,6 +55,12 @@ CORS
 * Access-Control-Allow-Origin can't be '*' when Access-Control-Allow-Credentials is true (cookie aware) 
 * Multi origin must be managed via conditional cors (server side: if(req.ip === '192.168.0.56') {res.setHeader...}) 
 
+Ghost
+=====
+* [Plugin architecture - not yet implemented](https://github.com/TryGhost/Ghost/issues/769)
+* [Apps & developer tools - early](https://github.com/TryGhost/Ghost/issues/1474)
+* [App builerplate - early](https://github.com/TryGhost/Ghost-App)
+
 Wordpress
 =====
 * [Redux Options Framework](https://github.com/ReduxFramework/ReduxFramework)
