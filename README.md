@@ -30,6 +30,20 @@ Graphics and animation
 * https://github.com/visionmedia/move.js
 * http://labs.bigroomstudios.com/libraries/animo-js
 * https://github.com/peachananr/onepage-scroll
+* [iScroll 5](http://cubiq.org/iscroll-5)
+* [iDangerous touch swiper - accelerated](http://www.idangero.us/sliders/swiper/)
+
+UI
+======
+
+* [jQuery mobile](http://jquerymobile.com/)
+* [Kendo UI](http://www.kendoui.com/)
+* [APP UI](http://triceam.github.io/app-UI/)
+* [Moobile](https://github.com/jpdery/moobile-core)
+* [Mobiscroll components](http://mobiscroll.com/) €
+* [Sencha touch](http://www.sencha.com/)
+* [iUI](https://github.com/iui/iUI)
+* [Zurb foundation](http://foundation.zurb.com/)
 
 Wrapper (multiplatform app)
 =======
@@ -38,9 +52,11 @@ Wrapper (multiplatform app)
 * https://trigger.io/
 
 Native emulation
+======
 
 * [Page SLider - Load and replace page in the DOM](https://github.com/ccoenraets/PageSlider). Intro on his [http://coenraets.org/blog/2013/03/hardware-accelerated-page-transitions-for-mobile-web-apps-phonegap-apps/](blog)
 * [Page preloading](http://polycademy.com/blog/id/147/preloading_page_content_like_youtube_using_angularjs)
+* [Adobe phonegap basics presentation - tips](http://tricedesigns.com/presentations/dreamforce/native-like%20phonegap%20apps/)
 
 CDNs
 =====
