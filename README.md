@@ -40,6 +40,7 @@ Wrapper (multiplatform app)
 Native emulation
 
 * [Page SLider - Load and replace page in the DOM](https://github.com/ccoenraets/PageSlider). Intro on his [http://coenraets.org/blog/2013/03/hardware-accelerated-page-transitions-for-mobile-web-apps-phonegap-apps/](blog)
+* [Page preloading](http://polycademy.com/blog/id/147/preloading_page_content_like_youtube_using_angularjs)
 
 CDNs
 =====
