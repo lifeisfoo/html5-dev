@@ -37,6 +37,10 @@ Wrapper (multiplatform app)
 * https://www.ludei.com/cocoonjs/
 * https://trigger.io/
 
+Native emulation
+
+* [Page SLider - Load and replace page in the DOM](https://github.com/ccoenraets/PageSlider). Intro on his [http://coenraets.org/blog/2013/03/hardware-accelerated-page-transitions-for-mobile-web-apps-phonegap-apps/](blog)
+
 CDNs
 =====
 * [jsdelivr](http://www.jsdelivr.com/)
