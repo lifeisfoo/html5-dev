@@ -1,8 +1,12 @@
-An HTML5 development journey
+#An HTML5 development journey
+
+Typography
 =========
 * [Control whitespaces with css](http://www.impressivewebs.com/css-white-space/)
 * http://www.greywyvern.com/?post=337
 * http://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs/
+* [ftellipsis](https://github.com/ftlabs/ftellipsis)
+* [JQuery dot dot dot](http://dotdotdot.frebsite.nl/)
 
 Generic
 ======
