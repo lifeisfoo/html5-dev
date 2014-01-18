@@ -19,6 +19,7 @@ Javascript
 ======
 * [Microjs framework listing](https://github.com/madrobby/microjs.com)
 * [JS design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Google closure library](https://developers.google.com/closure/library/)
 
 Node
 ====
