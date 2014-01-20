@@ -10,6 +10,8 @@ Typography
 
 Generic
 ======
+* [BEM methology-1](http://coding.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/)
+* [BEM methology-2](http://coding.smashingmagazine.com/2013/02/21/the-history-of-the-bem-methodology/)
 * [yeoman - development workflow tools](http://yeoman.io/)
 * [yo community generators](http://yeoman.io/community-generators.html)
 * http://www.polymer-project.org/
