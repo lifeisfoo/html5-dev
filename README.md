@@ -57,6 +57,7 @@ UI
 * [UI kits (mobile)](http://www.cssflow.com/ui-kits)
 * [UI elements](http://ui-cloud.com/free-ui-elements/)
 * [Bootstrap select](http://silviomoreto.github.io/bootstrap-select/)
+* [Bootstrap snippet!](http://bootsnipp.com/)
 
 Wrapper (multiplatform app)
 =======
