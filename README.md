@@ -52,6 +52,9 @@ UI
 * [Sencha touch](http://www.sencha.com/)
 * [iUI](https://github.com/iui/iUI)
 * [Zurb foundation](http://foundation.zurb.com/)
+* [Bootstrap iOS7](http://jasonbradley.me/bootstrap-ios7/)
+* [UI kits (mobile)](http://www.cssflow.com/ui-kits)
+* [UI elements](http://ui-cloud.com/free-ui-elements/)
 
 Wrapper (multiplatform app)
 =======
