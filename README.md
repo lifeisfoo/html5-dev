@@ -55,6 +55,7 @@ UI
 * [Bootstrap iOS7](http://jasonbradley.me/bootstrap-ios7/)
 * [UI kits (mobile)](http://www.cssflow.com/ui-kits)
 * [UI elements](http://ui-cloud.com/free-ui-elements/)
+* [Bootstrap select](http://silviomoreto.github.io/bootstrap-select/)
 
 Wrapper (multiplatform app)
 =======
