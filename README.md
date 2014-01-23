@@ -42,6 +42,13 @@ Graphics and animation
 * [iScroll 5](http://cubiq.org/iscroll-5)
 * [iDangerous touch swiper - accelerated](http://www.idangero.us/sliders/swiper/)
 
+Online editors
+
+* [Easel](https://www.easel.io/)
+* [Divshot](http://divshot.com)
+* [Jetstrap](http://jetstrap.com)
+* [List](http://mashable.com/2013/10/20/bootstrap-editors/)
+
 UI
 ======
 
