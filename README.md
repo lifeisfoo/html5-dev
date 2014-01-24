@@ -42,6 +42,8 @@ Graphics and animation
 * https://github.com/peachananr/onepage-scroll
 * [iScroll 5](http://cubiq.org/iscroll-5)
 * [iDangerous touch swiper - accelerated](http://www.idangero.us/sliders/swiper/)
+* [Desaturate an image with CSS](http://demosthenes.info/blog/532/Convert-Images-To-Black-And-White-With-CSS)
+* [Blur image with CSS](http://demosthenes.info/blog/534/Cross-browser-Image-Blur-with-CSS)
 
 Online editors
 
