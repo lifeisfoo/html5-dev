@@ -7,7 +7,8 @@ Typography
 * http://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs/
 * [ftellipsis](https://github.com/ftlabs/ftellipsis)
 * [JQuery dot dot dot](http://dotdotdot.frebsite.nl/)
-
+* [l20n responsive localization](http://l20n.org/)
+ 
 Generic
 ======
 * [BEM methology-1](http://coding.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/)
