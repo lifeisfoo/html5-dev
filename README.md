@@ -31,10 +31,10 @@ Node
 * [Sessions with Express](http://blog.modulus.io/nodejs-and-express-sessions)
 * [REST api with Express and Mongodb](http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-mongodb/)
 * [Node.js error handling pattern](http://www.nodewiz.biz/nodejs-error-handling-pattern/)
+* [Locomotive MVC framework](https://github.com/jaredhanson/locomotive)
 
 Graphics and animation
 =========
-
 * [threejs - 3D animation in javascript](http://threejs.org/)
 * http://www.minimamente.com/magic-css3-animations/
 * https://github.com/visionmedia/move.js
@@ -45,8 +45,12 @@ Graphics and animation
 * [Desaturate an image with CSS](http://demosthenes.info/blog/532/Convert-Images-To-Black-And-White-With-CSS)
 * [Blur image with CSS](http://demosthenes.info/blog/534/Cross-browser-Image-Blur-with-CSS)
 
-Online editors
+Editors e tools
+======
+* [AngularJS sublime plugin](https://github.com/angular-ui/AngularJS-sublime-package)
 
+Online editors
+======
 * [Easel](https://www.easel.io/)
 * [Divshot](http://divshot.com)
 * [Jetstrap](http://jetstrap.com)
@@ -68,6 +72,7 @@ UI
 * [UI elements](http://ui-cloud.com/free-ui-elements/)
 * [Bootstrap select](http://silviomoreto.github.io/bootstrap-select/)
 * [Bootstrap snippet!](http://bootsnipp.com/)
+* [LESShat mixins](https://github.com/csshat/lesshat)
 
 Wrapper (multiplatform app)
 =======
