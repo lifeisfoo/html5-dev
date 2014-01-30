@@ -25,6 +25,7 @@ Javascript
 * [Google closure library](https://developers.google.com/closure/library/)
 * [SugarJS, Javascript sweetened](http://sugarjs.com/)
 * [AngularJS modules](http://ngmodules.org/)
+* [BreezeJS](http://www.breezejs.com/)
 
 Node
 ====
