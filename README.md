@@ -76,6 +76,7 @@ UI
 * [Bootstrap snippet!](http://bootsnipp.com/)
 * [LESShat mixins](https://github.com/csshat/lesshat)
 * [Topcoat](https://github.com/topcoat/topcoat)
+* [Intel App framework](https://github.com/01org/appframework)
 
 Wrapper (multiplatform app)
 =======
