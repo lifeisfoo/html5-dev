@@ -50,6 +50,7 @@ Graphics and animation
 Editors e tools
 ======
 * [AngularJS sublime plugin](https://github.com/angular-ui/AngularJS-sublime-package)
+* [Monaca](http://monaca.mobi/)
 
 Online editors
 ======
@@ -77,6 +78,12 @@ UI
 * [LESShat mixins](https://github.com/csshat/lesshat)
 * [Topcoat](https://github.com/topcoat/topcoat)
 * [Intel App framework](https://github.com/01org/appframework)
+* [Susy, responsive grids for Compass](http://susy.oddbird.net/)
+* [Bourbon, SASS mixins](http://bourbon.io/)
+* [SASS](http://sass-lang.com/)
+* [Angular Foundation](https://github.com/madmimi/angular-foundation)
+* [CSSDB](http://cssdb.co/)
+* [Onsen UI](http://www.onsenui.io/)
 
 Wrapper (multiplatform app)
 =======
