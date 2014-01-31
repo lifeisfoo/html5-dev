@@ -8,6 +8,8 @@ Typography
 * [ftellipsis](https://github.com/ftlabs/ftellipsis)
 * [JQuery dot dot dot](http://dotdotdot.frebsite.nl/)
 * [l20n responsive localization](http://l20n.org/)
+* [Squishy - fit text into element](http://cmsauve.com/labs/squishy/)
+* [Bigfoot, jQuery footnotes](http://www.bigfootjs.com/)
  
 Generic
 ======
