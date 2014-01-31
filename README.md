@@ -28,6 +28,7 @@ Javascript
 * [SugarJS, Javascript sweetened](http://sugarjs.com/)
 * [AngularJS modules](http://ngmodules.org/)
 * [BreezeJS](http://www.breezejs.com/)
+* [Angular provider presentation](http://slides.wesalvaro.com/20121113/)
 
 Node
 ====
