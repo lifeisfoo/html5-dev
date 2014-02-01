@@ -52,6 +52,8 @@ Graphics and animation
 
 Editors e tools
 ======
+* [Facebook Origami](http://facebook.github.io/origami/)
+* [Sketch - vectorial editor](http://www.bohemiancoding.com/sketch/)
 * [AngularJS sublime plugin](https://github.com/angular-ui/AngularJS-sublime-package)
 * [Monaca](http://monaca.mobi/)
 
