@@ -29,6 +29,8 @@ Javascript
 * [AngularJS modules](http://ngmodules.org/)
 * [BreezeJS](http://www.breezejs.com/)
 * [Angular provider presentation](http://slides.wesalvaro.com/20121113/)
+* [Lo-Dash](http://lodash.com/)
+* [_Underscore.js](http://documentcloud.github.io/underscore/)
 
 Node
 ====
