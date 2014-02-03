@@ -4,12 +4,14 @@ Typography
 =========
 * [Control whitespaces with css](http://www.impressivewebs.com/css-white-space/)
 * http://www.greywyvern.com/?post=337
-* http://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs/
+* [em VS px VS pt](http://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs/)
 * [ftellipsis](https://github.com/ftlabs/ftellipsis)
 * [JQuery dot dot dot](http://dotdotdot.frebsite.nl/)
 * [l20n responsive localization](http://l20n.org/)
 * [Squishy - fit text into element](http://cmsauve.com/labs/squishy/)
 * [Bigfoot, jQuery footnotes](http://www.bigfootjs.com/)
+* [FontFabric](http://fontfabric.com/)
+* [FontSquirrel](http://www.fontsquirrel.com/)
  
 Generic
 ======
