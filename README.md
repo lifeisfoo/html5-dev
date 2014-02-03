@@ -58,6 +58,8 @@ Graphics and animation
 * [Desaturate an image with CSS](http://demosthenes.info/blog/532/Convert-Images-To-Black-And-White-With-CSS)
 * [Blur image with CSS](http://demosthenes.info/blog/534/Cross-browser-Image-Blur-with-CSS)
 * [Isotope](http://isotope.metafizzy.co/)
+* [Adaptive Images (server side)](https://github.com/MattWilcox/Adaptive-Images)
+* [Pixtulate (adapt images - web service)](http://www.pixtulate.com/)
 
 Editors e tools
 ======
