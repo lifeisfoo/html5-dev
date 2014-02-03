@@ -13,6 +13,10 @@ Typography
 * [FontFabric](http://fontfabric.com/)
 * [FontSquirrel](http://www.fontsquirrel.com/)
  
+SPA SEO
+======
+* [AngularJS SEO](https://coderwall.com/p/vqpfka)
+
 Generic
 ======
 * [BEM methology-1](http://coding.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/)
