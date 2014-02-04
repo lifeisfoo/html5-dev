@@ -60,6 +60,7 @@ Graphics and animation
 * [Isotope](http://isotope.metafizzy.co/)
 * [Adaptive Images (server side)](https://github.com/MattWilcox/Adaptive-Images)
 * [Pixtulate (adapt images - web service)](http://www.pixtulate.com/)
+* [Pixijs, 2D webGL renderer with canvas fallback](pixijs.com)
 
 Editors e tools
 ======
