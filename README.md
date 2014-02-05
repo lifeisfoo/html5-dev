@@ -61,6 +61,10 @@ Graphics and animation
 * [Adaptive Images (server side)](https://github.com/MattWilcox/Adaptive-Images)
 * [Pixtulate (adapt images - web service)](http://www.pixtulate.com/)
 * [Pixijs, 2D webGL renderer with canvas fallback](pixijs.com)
+* [jQuery Parallax](https://github.com/IanLunn/jQuery-Parallax)
+* [Squence.js - Responsive Slider with Advanced CSS3 Transitions](https://github.com/IanLunn/Sequence)
+* [Hover.css - CSS3 transition onHover](http://ianlunn.github.io/Hover/)
+* [FitVid.js - jQuery plugin to embed videos in a responsive way](http://fitvidsjs.com/)
 
 Editors e tools
 ======
