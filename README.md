@@ -13,6 +13,7 @@ Typography
 * [FontFabric](http://fontfabric.com/)
 * [FontSquirrel](http://www.fontsquirrel.com/)
 * [Lettering.js - span injector for radical web typography](https://github.com/davatron5000/Lettering.js)
+* [FitText.js - responsive text](http://fittextjs.com/)
  
 SPA SEO
 ======
