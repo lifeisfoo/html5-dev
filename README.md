@@ -12,6 +12,7 @@ Typography
 * [Bigfoot, jQuery footnotes](http://www.bigfootjs.com/)
 * [FontFabric](http://fontfabric.com/)
 * [FontSquirrel](http://www.fontsquirrel.com/)
+* [Lettering.js - span injector for radical web typography](https://github.com/davatron5000/Lettering.js)
  
 SPA SEO
 ======
