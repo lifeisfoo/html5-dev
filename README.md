@@ -47,6 +47,7 @@ Node
 * [REST api with Express and Mongodb](http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-mongodb/)
 * [Node.js error handling pattern](http://www.nodewiz.biz/nodejs-error-handling-pattern/)
 * [Locomotive MVC framework](https://github.com/jaredhanson/locomotive)
+* [Holla WebRTC abstraction!](https://github.com/wearefractal/holla)
 
 Graphics and animation
 =========
@@ -67,6 +68,7 @@ Graphics and animation
 * [Squence.js - Responsive Slider with Advanced CSS3 Transitions](https://github.com/IanLunn/Sequence)
 * [Hover.css - CSS3 transition onHover](http://ianlunn.github.io/Hover/)
 * [FitVid.js - jQuery plugin to embed videos in a responsive way](http://fitvidsjs.com/)
+* [Lazy Line Painter - Animate SVG lines with js from file](http://lazylinepainter.info/)
 
 Editors e tools
 ======
@@ -107,6 +109,7 @@ UI
 * [Angular Foundation](https://github.com/madmimi/angular-foundation)
 * [CSSDB](http://cssdb.co/)
 * [Onsen UI](http://www.onsenui.io/)
+* [Facebook React](http://facebook.github.io/react/)
 
 Wrapper (multiplatform app)
 =======
@@ -120,6 +123,7 @@ Native emulation
 * [Page SLider - Load and replace page in the DOM](https://github.com/ccoenraets/PageSlider). Intro on his [http://coenraets.org/blog/2013/03/hardware-accelerated-page-transitions-for-mobile-web-apps-phonegap-apps/](blog)
 * [Page preloading](http://polycademy.com/blog/id/147/preloading_page_content_like_youtube_using_angularjs)
 * [Adobe phonegap basics presentation - tips](http://tricedesigns.com/presentations/dreamforce/native-like%20phonegap%20apps/)
+* [Chrome Apps in Cordova](https://github.com/MobileChromeApps/mobile-chrome-apps)
 
 CDNs
 =====
