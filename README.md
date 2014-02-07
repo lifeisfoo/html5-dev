@@ -102,6 +102,7 @@ Online editors
 UI
 ======
 
+* [Ionic framework - The beautiful, open source front-end framework for developing hybrid mobile apps with HTML5.](http://ionicframework.com/)
 * [jQuery mobile](http://jquerymobile.com/)
 * [Kendo UI](http://www.kendoui.com/)
 * [APP UI](http://triceam.github.io/app-UI/)
