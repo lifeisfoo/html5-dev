@@ -15,6 +15,20 @@ Typography
 * [Lettering.js - span injector for radical web typography](https://github.com/davatron5000/Lettering.js)
 * [FitText.js - responsive text](http://fittextjs.com/)
  
+Responsive and high-density images
+======
+* [Angular retina](https://github.com/jrief/angular-retina)
+* [jQuery picture](http://jquerypicture.com/)
+* [ResponsiveJS](http://responsejs.com/)
+* [Responsive design with ResponsiveJS (article)](http://davidwalsh.name/responsive-design)
+* [Mobify.js](http://www.mobify.com/mobifyjs/)
+* [Mobify automation (article)](http://mobile.smashingmagazine.com/2013/10/24/automate-your-responsive-images-with-mobify-js/)
+* [Picturefill - polifyll](https://github.com/scottjehl/picturefill)
+* [Device pixel ratio detection](http://bjango.com/articles/min-device-pixel-ratio/)
+* [Slimmage - responsive images](https://github.com/imazen/slimmage)
+* [WebP homepage](https://developers.google.com/speed/webp/?hl=it)
+* [High DPI images for variable pixel densities (article)](http://www.html5rocks.com/en/mobile/high-dpi/?redirect_from_locale=it)
+
 SPA SEO
 ======
 * [AngularJS SEO](https://coderwall.com/p/vqpfka)
@@ -69,6 +83,7 @@ Graphics and animation
 * [Hover.css - CSS3 transition onHover](http://ianlunn.github.io/Hover/)
 * [FitVid.js - jQuery plugin to embed videos in a responsive way](http://fitvidsjs.com/)
 * [Lazy Line Painter - Animate SVG lines with js from file](http://lazylinepainter.info/)
+* [Hook.js - Pull to refresh. For the web](http://usehook.com/)
 
 Editors e tools
 ======
