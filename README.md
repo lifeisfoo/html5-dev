@@ -53,6 +53,7 @@ Javascript
 * [Angular provider presentation](http://slides.wesalvaro.com/20121113/)
 * [Lo-Dash](http://lodash.com/)
 * [_Underscore.js](http://documentcloud.github.io/underscore/)
+* [Hammer.js - touch gestures for web app](http://eightmedia.github.io/hammer.js)
 
 Node
 ====
@@ -84,6 +85,7 @@ Graphics and animation
 * [FitVid.js - jQuery plugin to embed videos in a responsive way](http://fitvidsjs.com/)
 * [Lazy Line Painter - Animate SVG lines with js from file](http://lazylinepainter.info/)
 * [Hook.js - Pull to refresh. For the web](http://usehook.com/)
+* [Animate.css](http://daneden.github.io/animate.css/)
 
 Editors e tools
 ======
