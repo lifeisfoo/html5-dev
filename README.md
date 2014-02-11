@@ -86,6 +86,7 @@ Graphics and animation
 * [Lazy Line Painter - Animate SVG lines with js from file](http://lazylinepainter.info/)
 * [Hook.js - Pull to refresh. For the web](http://usehook.com/)
 * [Animate.css](http://daneden.github.io/animate.css/)
+* [RaphaelJS - standard vector graphics](http://raphaeljs.com/)
 
 Editors e tools
 ======
