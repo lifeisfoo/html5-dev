@@ -15,6 +15,13 @@ Typography
 * [Lettering.js - span injector for radical web typography](https://github.com/davatron5000/Lettering.js)
 * [FitText.js - responsive text](http://fittextjs.com/)
  
+HTML5
+=====
+* [Semantic page structure](http://diveintohtml5.info/semantics.html)
+* [Reference doc for page structure elements](http://www.whatwg.org/specs/web-apps/current-work/multipage/sections.html)
+* [HTML5 outliner - test your structure](http://gsnedders.html5.org/outliner/)
+* [HTML5 section flowchart (what element I need?)](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
+
 Responsive and high-density images
 ======
 * [Angular retina](https://github.com/jrief/angular-retina)
@@ -32,6 +39,12 @@ Responsive and high-density images
 SPA SEO
 ======
 * [AngularJS SEO](https://coderwall.com/p/vqpfka)
+* [HTML5 history api](http://diveintohtml5.info/history.html)
+* [AngularJS $location](http://docs.angularjs.org/guide/dev_guide.services.$location)
+* [AngularJS html5/hasbang url mode](http://stackoverflow.com/questions/16677528/location-switching-between-html5-and-hashbang-mode-link-rewriting)
+* [AngularJS direct url](http://stackoverflow.com/questions/15250090/angularjs-why-when-changing-url-address-routeprovider-doesnt-seem-to-work-an)
+* [AngularJS direct url 2](http://stackoverflow.com/questions/16371555/angularjs-how-to-user-accessible-url-routing)
+* [Apache rewrite for angular](http://stackoverflow.com/questions/15284038/rewrite-rules-for-apache-2-to-use-with-angular-js)
 
 Generic
 ======
@@ -54,6 +67,8 @@ Javascript
 * [Lo-Dash](http://lodash.com/)
 * [_Underscore.js](http://documentcloud.github.io/underscore/)
 * [Hammer.js - touch gestures for web app](http://eightmedia.github.io/hammer.js)
+* [easyAB - AB testing with google analytics (zepto/jQuery)](http://srom.github.io/easyAB/)
+* [ABalytics - AB testing in pure js with google analytics](https://github.com/danmaz74/ABalytics)
 
 Node
 ====
