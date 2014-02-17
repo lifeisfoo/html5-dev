@@ -144,6 +144,7 @@ UI
 * [CSSDB](http://cssdb.co/)
 * [Onsen UI](http://www.onsenui.io/)
 * [Facebook React](http://facebook.github.io/react/)
+* [Furatto](https://github.com/IcaliaLabs/furatto)
 
 Wrapper (multiplatform app)
 =======
